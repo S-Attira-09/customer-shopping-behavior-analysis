@@ -3,7 +3,7 @@
 
 > An end-to-end data analytics project analyzing 3,900 customer transactions using Python, SQL, and Power BI to uncover insights on customer behavior, revenue patterns, and business opportunities.
 
----
+
 
 ## 📌 Overview
 
@@ -18,7 +18,7 @@ It covers the full analytics pipeline:
 
 **Goal:** Understand customer behavior, spending patterns, and opportunities for growth.
 
----
+
 
 ## 📊 Dataset
 
@@ -32,7 +32,7 @@ It covers the full analytics pipeline:
 * Purchase details (Product, Category, Amount)
 * Behavior (Discount usage, Reviews, Frequency, Subscription)
 
----
+
 
 ## 🛠️ Tools
 
@@ -41,7 +41,7 @@ It covers the full analytics pipeline:
 * **SQLAlchemy** → Database connection
 * **Power BI** → Dashboard visualization
 
----
+
 
 ## 🔄 Steps
 
@@ -68,7 +68,6 @@ It covers the full analytics pipeline:
 
    * Built an interactive Power BI dashboard
 
----
 
 ## 📊 Dashboard
 
@@ -87,7 +86,7 @@ The Power BI dashboard provides an interactive view of:
 * Avg Rating: 3.75
 * Subscription Rate: 27%
 
----
+
 
 ## 📈 Results
 
@@ -98,7 +97,7 @@ The Power BI dashboard provides an interactive view of:
 * Young adults are the top spending group
 * Product ratings are below 4.0 → improvement opportunity
 
----
+
 
 ## ▶️ How to Run
 
@@ -139,8 +138,4 @@ psql -d shopping_analysis -f sql/queries.sql
 
 Open the `.pbix` file in Power BI Desktop
 
----
 
-
-
-⭐ *If you found this project useful, consider giving it a star!*
